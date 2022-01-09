@@ -10,7 +10,7 @@ public class Main {
         int i1 = 5;
         int i = 6;
         //System.out.println("r" + r);
-
+        int i2 = 9;
 
         int s = 7;
         int j = System.in.read();
