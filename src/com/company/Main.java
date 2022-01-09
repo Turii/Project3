@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("hhh");
         int eee = 20;
-        int i1 = 5;
+        int i1 = 566;
         int i = 6;
         //System.out.println("r" + r);
         int i2 = 99;
