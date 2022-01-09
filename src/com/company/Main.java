@@ -11,7 +11,7 @@ public class Main {
         int i = 6;
         //System.out.println("r" + r);
         int i2 = 99;
-
+        System.out.println("hi");
         int s = 7;
         int j = System.in.read();
         System.out.println((char)j);
